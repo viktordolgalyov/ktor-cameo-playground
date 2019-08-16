@@ -1,0 +1,4 @@
+{
+  "name": "Cameo App",
+  "addons": [ "heroku-postgresql" ]
+}
